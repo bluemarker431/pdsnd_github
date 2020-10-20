@@ -206,7 +206,7 @@ def main():
         user_stats(df)
 
         while True:
-            response = input("Please enter yes if you like to see 5 rows of data. Enter no if not. ").lower()
+            response = input("Please enter yes if you like to see 5 rows of data. Enter no if you don't want to. ").lower()
             if response == "yes":
                  raw = np.array([1, 2, 3, 4, 6]).reshape(6, 1)
                  print(raw)
@@ -214,7 +214,7 @@ def main():
                      print("Finished.")
                      break
 
-            response = input("Please enter yes if you like to see 5 additional rows of data. Enter no if not. ").lower()
+            response = input("Please enter yes if you like to see 5 additional rows of data. Enter no if you don't want to. ").lower()
             if response == "yes":
                 raw = np.array([1, 2, 3, 4, 6]).reshape(6,1) + 5
                 print(raw)
