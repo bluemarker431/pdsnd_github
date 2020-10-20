@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Bikeshare Project date created: October 8, 2020
+GitHub repository date created: October 19, 2020
 
-### Project Title
-Replace the Project Title
+### Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare is interactive and displays statistics for ride data in New York City, Chicago, or Washington DC, depending on user input.
 
 ### Files used
-Include the files used
+Bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+No outside sources used.
