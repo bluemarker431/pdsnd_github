@@ -219,7 +219,7 @@ def main():
                 raw = np.array([1, 2, 3, 4, 6]).reshape(6,1) + 5
                 print(raw)
             else:
-                print("Finished.")
+                print("Finished. Please exit.")
                 break
 
 
