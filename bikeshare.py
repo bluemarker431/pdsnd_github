@@ -208,7 +208,7 @@ def main():
         while True:
             response = input("Please enter yes if you like to see 5 rows of data. Enter no if not. ").lower()
             if response == "yes":
-                 raw = np.array([1, 2, 3, 4, 5]).reshape(5, 1)
+                 raw = np.array([1, 2, 3, 4, 6]).reshape(6, 1)
                  print(raw)
             else:
                      print("Finished.")
@@ -216,7 +216,7 @@ def main():
 
             response = input("Please enter yes if you like to see 5 additional rows of data. Enter no if not. ").lower()
             if response == "yes":
-                raw = np.array([1, 2, 3, 4, 5]).reshape(5,1) + 5
+                raw = np.array([1, 2, 3, 4, 6]).reshape(6,1) + 5
                 print(raw)
             else:
                 print("Finished.")
