@@ -1,6 +1,7 @@
 ### Date created
-Bikeshare Project date created: October 8, 2020
-GitHub repository date created: October 19, 2020
+Bikeshare Project date created: *October 8, 2020*
+
+GitHub repository date created: *October 19, 2020*
 
 ### Bikeshare
 
@@ -12,3 +13,5 @@ Bikeshare.py
 
 ### Credits
 No outside sources used.
+
+**"Oy with the poodles already!"** -Gilmore Girls
